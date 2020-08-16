@@ -31,7 +31,7 @@ git + hub
 
    * **git status**    ->    git저장소의 상태확인(파일의 커밋여부, 변경사항, 위치하고 있는branch 등을 출력)
 
-처음: init -> remote -> add . -> commit -> push
+처음: init -> remote -> add . -> commit -> push<br>
 다음부터: pull/clone -> 수정 -> add . -> commit -> push
 
 <br><br>
