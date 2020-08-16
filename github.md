@@ -1,10 +1,10 @@
-#github
+# github
 git + hub
    * git:파일(코드)의 변화를 기록
    * github: git과 코드를 저장, 관리
    * 개발자의 포트폴리오 역활
 
-#git 기본 명령어
+# git 기본 명령어
    * **git init**    ->    git을 시작하겠다고 선언. 비어있는 로컬 git저장소를 만듬
 
    * **git remote add origin 원격저장소 주소**    ->    주소로 로컬과 원격저장소를 연결. origin은 주소의 이름

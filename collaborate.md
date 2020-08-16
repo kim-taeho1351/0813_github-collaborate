@@ -1,4 +1,4 @@
-#Collaborator를 이용한 협업
+# Collaborator를 이용한 협업
 1. 원격저장소 생성(github repository 생성)
 
 2. 팀원을 collaborator로 추가
@@ -22,7 +22,7 @@
 
 <br><br>
 
-#Fork를 이용한 협업
+# Fork를 이용한 협업
 1. 작업하고싶은 Repository fork 해오기
    * 해당 Repository 오른쪽 위 포크버튼 클릭 -> 작업할 자신의 Repository선택
 
